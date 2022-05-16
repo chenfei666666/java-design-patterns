@@ -26,6 +26,8 @@ package com.iluwatar.factory.method;
 import lombok.extern.slf4j.Slf4j;
 
 /**
+ * @工厂方法模式
+ *
  * The Factory Method is a creational design pattern that uses factory methods to deal with the
  * problem of creating objects without specifying the exact class of object that will be created.
  * This is done by creating objects via calling a factory method either specified in an interface

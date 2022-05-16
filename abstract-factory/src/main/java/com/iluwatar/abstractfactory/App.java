@@ -26,6 +26,8 @@ package com.iluwatar.abstractfactory;
 import lombok.extern.slf4j.Slf4j;
 
 /**
+ * @抽象工厂模式
+ *
  * The Abstract Factory pattern provides a way to encapsulate a group of individual factories that
  * have a common theme without specifying their concrete classes. In normal usage, the client
  * software creates a concrete implementation of the abstract factory and then uses the generic
