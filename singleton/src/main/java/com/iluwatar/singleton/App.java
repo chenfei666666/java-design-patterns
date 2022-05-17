@@ -26,6 +26,8 @@ package com.iluwatar.singleton;
 import lombok.extern.slf4j.Slf4j;
 
 /**
+ * @单例模式
+ *
  * <p>Singleton pattern ensures that the class can have only one existing instance per Java
  * classloader instance and provides global access to it.</p>
  *
