@@ -27,6 +27,8 @@ import com.iluwatar.builder.Hero.Builder;
 import lombok.extern.slf4j.Slf4j;
 
 /**
+ * @建造者模式
+ *
  * The intention of the Builder pattern is to find a solution to the telescoping constructor
  * anti-pattern. The telescoping constructor anti-pattern occurs when the increase of object
  * constructor parameter combination leads to an exponential list of constructors. Instead of using
