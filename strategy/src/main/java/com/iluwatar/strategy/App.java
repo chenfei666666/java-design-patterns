@@ -26,6 +26,7 @@ package com.iluwatar.strategy;
 import lombok.extern.slf4j.Slf4j;
 
 /**
+ * @策略模式
  *
  * <p>The Strategy pattern (also known as the policy pattern) is a software design pattern that
  * enables an algorithm's behavior to be selected at runtime.</p>
