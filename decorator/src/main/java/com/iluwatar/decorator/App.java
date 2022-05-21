@@ -26,6 +26,8 @@ package com.iluwatar.decorator;
 import lombok.extern.slf4j.Slf4j;
 
 /**
+ * @装饰模式
+ *
  * The Decorator pattern is a more flexible alternative to subclassing. The Decorator class
  * implements the same interface as the target and uses composition to "decorate" calls to the
  * target. Using the Decorator pattern it is possible to change the behavior of the class during
