@@ -24,6 +24,8 @@
 package com.iluwatar.flyweight;
 
 /**
+ * @享元模式
+ *
  * Flyweight pattern is useful when the program needs a huge amount of objects. It provides means to
  * decrease resource usage by sharing object instances.
  *
