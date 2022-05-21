@@ -24,6 +24,8 @@
 package com.iluwatar.chain;
 
 /**
+ * @责任链模式
+ *
  * The Chain of Responsibility pattern is a design pattern consisting of command objects and a
  * series of processing objects. Each processing object contains logic that defines the types of
  * command objects that it can handle; the rest are passed to the next processing object in the
