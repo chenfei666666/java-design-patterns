@@ -24,6 +24,8 @@
 package com.iluwatar.adapter;
 
 /**
+ * @适配器模式
+ *
  * An adapter helps two incompatible interfaces to work together. This is the real world definition
  * for an adapter. Interfaces may be incompatible but the inner functionality should suit the need.
  * The Adapter design pattern allows otherwise incompatible classes to work together by converting
